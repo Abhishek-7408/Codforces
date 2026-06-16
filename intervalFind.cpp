@@ -10,7 +10,7 @@ int main(){
     else if(x>50 && x<=75)
     cout<<"Interval (50,75)";
     else if(x>75 && x<=100)
-    cout<<"Interval [75,100]"
+    cout<<"Interval [75,100]";
     else 
     cout<<"Out of Intervals";
     
